@@ -3,8 +3,6 @@
 
 - 개인 공부 및 구직중
 
-- 👨‍💻 포트폴리오 : 준비중
-
 - 📝 블로그 : [작은 정원](https://smallgarden.netlify.app/)
 
 - 📫 Contact : ase1031@naver.com
